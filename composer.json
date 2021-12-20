@@ -1,0 +1,20 @@
+{
+    "name": "iayoo/e-commerce-goods",
+    "description": "e-commerce-goods",
+    "keywords": [
+        "e-commerce",
+        "goods",
+        "product",
+        "sku"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Iayoo\\ECommerceGoods\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Iayoo",
+        "email": "vilnius94@163.com"
+    }],
+    "require": {}
+}
